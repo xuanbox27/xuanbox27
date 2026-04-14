@@ -6,15 +6,15 @@
 
 - 🔭 I'm currently working on **- [MoodScope](https://github.com/xuanbox27/MoodScope) —— 智能情绪日记 + 经期管理助手（SwiftUI + Vue + Flask）
 - 学习 PyTorch 和 Hugging Face，尝试将 LLM 集成到日常工具中
-- 参与开源项目，积累贡献**
+- 参与开源项目，积累贡献
 
 - 🌱 I'm currently learning **- 机器学习 / 深度学习：PyTorch、Transformers、LoRA 微调
 - 后端架构：系统设计、数据库优化、API 安全
 - 移动端开发：SwiftUI + Core Data
-- GraphQL、TypeScript**
+- GraphQL、TypeScript
 
-- 👯 I'm looking to collaborate on **- 合作开发 "AI + 健康/教育" 领域的开源项目
-- 参与 Google Summer of Code 或开源贡献活动**
+- 👯 I'm looking to collaborate on - 合作开发 "AI + 健康/教育" 领域的开源项目
+- 参与 Google Summer of Code 或开源贡献活动
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
