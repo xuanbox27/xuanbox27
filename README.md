@@ -1,6 +1,7 @@
 # Hi 👋, I'm xuanbox27
 
-### 🧠 人工智能技术应用专业 | 全栈开发爱好者   🌱 正在构建有温度的智能应用，让技术服务于真实生活
+### 🧠 人工智能技术应用专业 | 全栈开发爱好者
+### 🌱正在构建有温度的智能应用，让技术服务于真实生活
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuanbox27&label=Profile views&color=0e75b6&style=flat" alt="xuanbox27" /> </p>
 
@@ -8,13 +9,13 @@
 - 学习 PyTorch 和 Hugging Face，尝试将 LLM 集成到日常工具中
 - 参与开源项目，积累贡献
 
-- 🌱 I'm currently learning **- 机器学习 / 深度学习：PyTorch、Transformers、LoRA 微调
-- 后端架构：系统设计、数据库优化、API 安全
-- 移动端开发：SwiftUI + Core Data
-- GraphQL、TypeScript
+- 🌱 I'm currently learning **- 机器学习 / 深度学习：PyTorch、Transformers、LoRA 微调、RAG
+- 后端架构：系统设计、数据库优化、API 安全、GraphQL
+- 移动端开发：SwiftUI + Core Data，跨端方案探索 
+- LLM 应用落地：LangChain、Prompt Engineering、Function Calling
 
 - 👯 I'm looking to collaborate on - 合作开发 "AI + 健康/教育" 领域的开源项目
-- 参与 Google Summer of Code 或开源贡献活动
+- ✨ 参与 Google Summer of Code 或开源贡献活动
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
