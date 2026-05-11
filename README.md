@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuanbox27&label=Profile views&color=0e75b6&style=flat" alt="xuanbox27" /> </p>
 
-- 🔭 I'm currently working on **- [MoodScope](https://github.com/xuanbox27/MoodScope) —— 智能情绪日记 + 经期管理助手（SwiftUI + Vue + Flask）
+- 🔭 I'm currently working on 智能交互应用（2D Live LLM 数字人、情感计算与心理健康辅助、智能保质期管理 Agent）
 - 学习 PyTorch 和 Hugging Face，尝试将 LLM 集成到日常工具中
 - 参与开源项目，积累贡献
 
